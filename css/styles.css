@@ -69,12 +69,12 @@ color: var(--h2-font);
 }
 
 .header-menu-link:hover,
-.header-address-item:hover {
+ {
     color:#404bbf;
 }
     
 .header-menu-link:focus,
-.header-address-item:focus {
+ {
 color: #404bbf;
  }
  .header-menu-link:active,
