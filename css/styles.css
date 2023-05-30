@@ -1,6 +1,7 @@
  :root {
     --first-font: #FFFFFF;
     --h2-font: #2E2F42;
+    --color-adress: #434455;
 }
 
 body {
@@ -47,6 +48,7 @@ color: var(--h2-font);
 }
 .contact {
     font-style: normal;
+    color: var(--color-adress);
  }
 
 .list { 
