@@ -14,7 +14,7 @@ background-color: var(--first-font);
 }
 .header-logo span {
 line-height: 1.17;
-color: #2E2F42;
+color: var(--h2-font);
 }
 
 .header-logo  {
@@ -28,13 +28,13 @@ color: #2E2F42;
         color: #4D5AE5;
 }
 
-.header-menu {
+.header-menu-link {
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color: var(--h2-font);
 }
 
 .header-address {
@@ -45,7 +45,7 @@ color: #2E2F42;
         letter-spacing: 0.02em;
         color: #434455;
 }
-.header-address-item {
+.header-address-link {
     font-style: normal;
  }
 
