@@ -18,6 +18,10 @@ line-height: 1.17;
 color: var(--h2-font);
 }
 
+.contact {
+    font-style: normal;
+    color: var(--color-adress);
+}
 .header-logo  {
     font-family: 'Raleway', sans-serif;
         font-style: normal;
