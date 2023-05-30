@@ -101,7 +101,7 @@ color: #404bbf;
     letter-spacing: 0.04em; 
     color: var(--first-font);
     background-color: #4D5AE5;
-    cursor: pointer;
+   
  }
   .hero-btn:hover { 
     background-color: #404BBF;
@@ -109,6 +109,8 @@ color: #404bbf;
 .hero-btn:focus {
     background-color: #404BBF;
 }
+
+
 
  .content-title {
         font-weight: 500;
