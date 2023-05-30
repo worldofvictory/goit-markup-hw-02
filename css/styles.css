@@ -2,6 +2,7 @@
     --first-font: #FFFFFF;
     --h2-font: #2E2F42;
     --color-adress: #434455;
+    
 }
 
 body {
@@ -87,8 +88,11 @@ color: #404bbf;
  }
     
  
+.hero { 
+    background-color: var(--h2-font);
+}
 
-  
+
  .hero-btn {
     font-family: inherit;
     font-weight: 500;
