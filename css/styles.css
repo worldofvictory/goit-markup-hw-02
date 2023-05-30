@@ -91,7 +91,9 @@ color: #404bbf;
 .hero-title { 
     background-color: var(--h2-font);
 }
-
+.hero {
+    background-color: var(--h2-font);
+}
 
  .hero-btn {
     font-family: inherit;
