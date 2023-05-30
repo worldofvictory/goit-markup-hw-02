@@ -106,7 +106,9 @@ color: #404bbf;
 .hero-btn:focus {
     background-color: #404BBF;
 }
-
+ .hero {
+    background-color: var(--h2-font);
+  }
 
 
  .content-title {
