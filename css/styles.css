@@ -123,7 +123,9 @@ color: #404bbf;
  .doing-items {}
 
  .doing-img {}
- .team {}
+ .team {
+    background-color: #F4F4FD;
+ }
 
  .team-our {
     font-weight: 700;
@@ -133,7 +135,7 @@ color: #404bbf;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;
-        background-color: #F4F4FD;
+      
        
  }
 
