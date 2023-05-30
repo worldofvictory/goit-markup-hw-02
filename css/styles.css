@@ -1,6 +1,8 @@
  :root {
     --first-font: #FFFFFF;
+    --h2-font: #2E2F42;
 }
+
 body {
 font-family: 'Roboto', sans-serif;
 color:#434455;
@@ -93,7 +95,7 @@ color: #404bbf;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-        color: #2E2F42;
+        color: var(--h2-font);
  }
 
  .content-text {
