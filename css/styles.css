@@ -212,11 +212,19 @@ background-color:#F4F4FD;
         line-height: 1.5;
         text-align: center;
         letter-spacing: 0.04em;
+        cursor: pointer;
     color: #4D5AE5;
     background-color: #F4F4FD;
  }
  
-
+.button-portfolio:hover {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+.button-portfolio:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
  .menu {}
 
  .items {
