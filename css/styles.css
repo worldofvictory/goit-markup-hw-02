@@ -69,13 +69,15 @@ color: var(--h2-font);
 }
 
 .header-menu-link:hover,
-.header-address-item:hover
+.header-address-item:hover,
+.header-address-link:hover
  {
     color:#404bbf;
 }
     
 .header-menu-link:focus,
-.header-address-item:focus
+.header-address-item:focus,
+.header-address-link:focus
  {
 color: #404bbf;
  }
@@ -84,13 +86,9 @@ color: #404bbf;
     text-decoration-line: underline;
  }
     
- .header-address-link:hover {
-    color: #404bbf;
- }
+ 
 
- .header-address-link:focus {
-     color: #404bbf;
- }
+  
  .hero-btn {
     font-family: inherit;
     font-weight: 500;
