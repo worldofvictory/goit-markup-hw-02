@@ -13,7 +13,7 @@ background-color: var(--first-font);
 .link {
     text-decoration: none;
 }
-.header-logo span {
+.span-head {
 line-height: 1.17;
 color: var(--h2-font);
 }
