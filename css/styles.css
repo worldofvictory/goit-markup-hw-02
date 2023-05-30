@@ -40,6 +40,9 @@ color: #2E2F42;
         letter-spacing: 0.02em;
         color: #434455;
 }
+.header-address-item {
+    font-style: normal;
+ }
 
 .list { 
     list-style: none;
