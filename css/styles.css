@@ -68,12 +68,12 @@ color: var(--h2-font);
         background-color: #2E2F42;
 }
 
-.header-menu-link:hover,
+.header-menu-link:hover
  {
     color:#404bbf;
 }
     
-.header-menu-link:focus,
+.header-menu-link:focus
  {
 color: #404bbf;
  }
