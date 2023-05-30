@@ -46,10 +46,7 @@ color: var(--h2-font);
         letter-spacing: 0.02em;
         color: var(--color-adress)
 }
-.contact {
-    font-style: normal;
-    color: var(--color-adress);
- }
+
 
 .list { 
     list-style: none;
