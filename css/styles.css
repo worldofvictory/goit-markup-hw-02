@@ -186,7 +186,9 @@ background-color:#F4F4FD;
 
  .menu {}
 
- .items {}
+ .items {
+    background: #FFFFFF;
+ }
 
  .img-menu {}
 
